@@ -9,6 +9,6 @@
   <br />
   <h1 class="text-center text-2xl">Svelte Introduction</h1>
   <br />
-  <p class="text-center"> le svelte sa tue !</p>
+  <p class="text-center"> Le svelte ça tue !</p>
   <!-- exo 0 -->
 </html>
